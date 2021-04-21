@@ -11,15 +11,21 @@
 <br>
 <style>
     table, td, th {
-        border: 1px solid #ddd;
-        text-align: left;
+        border: 2px solid black;
     }
     table {
-        border-collapse: collapse;
         width: 100%;
     }
+
     th, td {
         padding: 15px;
+        text-align: left;
+        padding: 8px;
+    }
+
+    th {
+        background-color: grey;
+        color: white;
     }
 </style>
 <table>
